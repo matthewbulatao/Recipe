@@ -3,12 +3,10 @@
 <head>
 <title>R</title>
 </head>
+
 <body style=text-align:center;>
 
-
-
 <style>
-
 body {
   background-image: url('Beef-Caldereta.jpg');
   background-repeat: no-repeat;
@@ -17,11 +15,14 @@ body {
 }
 
 mark { 
-  background-color: red;
-  color: black;
+  background-color: transparent;
+  color: red;
 }
 </style>
 </head>
+
+
+
 
 <h1>Beef Caldereta Recipe</h1>
 
@@ -30,8 +31,9 @@ mark {
 <h2 > Ingredients </h2>
 <ul>
 	
-    <li><mark>2</mark> 	lbs beef cubed</li> 
-    <li><mark>3</mark> 	pieces garlic cloves crushed and chopped</li>
+
+	<li><mark>2</mark> 	lbs beef cubed</li> 
+	<li><mark>3</mark> 	pieces garlic cloves crushed and chopped</li>
     <li><mark>2</mark> 	piece onion finely chopped</li>
     <li><mark>2</mark> 	cups beef broth</li>
     <li><mark>1</mark> 	piece red bell pepper sliced</li>
@@ -67,26 +69,20 @@ mark {
 	<li>Heat the cooking oil in the cooking pot or pressure cooker.</li>
     <li>Sauté the onion and garlic.</li>
     <li>Add the beef. Cook for <mark>5 minutes</mark>	or until the color turns 
-
 light brown.</li>
     <li>Add the dried bay leaves and crushed pepper. Stir.</li>
     <li>Add the liver spread. Stir.</li>
     <li>Pour-in the tomato sauce and beef broth.</li>
     <li>Cook the beef until it becomes tender (<mark>about 30 mins if using a 
-
 pressure</mark>)  </li> 
     <li>cooker, or <mark>1 to 2 hours</mark> 	(if using an ordinary pot).</li>
     <li>Add potato and carrots. Cook for <mark>8 to 10 minutes.</mark></li>
     <li>Put the green olives and bell peppers in the cooking pot. Stir and</li> 
-
-<li>continue to cook for <mark>5 minutes more.</mark>5</li>
+	<li>continue to cook for <mark>5 minutes more.</mark>5</li>
     <li>Add salt and pepper to taste</li>
     <li>Serve Hot. Enjoy!</li>
     </ol>	
 
-<p><big><b>THANK YOU	!!!</p></big></b>
-
-
-
+<p><big><b>THANK YOU	!!!</big></b></p>
 </body>
 </html>
