@@ -6,7 +6,7 @@
 
 <body style=text-align:center;>
 </body>
-
+<body>
 <style>
 
 body {
