@@ -4,6 +4,8 @@
 <title>Recipe</title>
 </head>
 <body style=text-align:center;>
+
+
 <style>
 
 
@@ -29,7 +31,7 @@ mark {
 <h1 style=text-align:center;>Beef Caldereta Recipe</h1>
 <img src="Beef-Caldereta.jpg" alt="Beef-Caldereta" width="200" height="180">
 
-<h2 style=text-align:center;> Ingredients </h2>
+<h2 > Ingredients </h2>
 <ul>
 	
 
@@ -88,4 +90,3 @@ pressure</mark>)  </li>
 <p><big><b>THANK YOU	!!!</big></b></p>
 </body>
 </html>
-</style>
