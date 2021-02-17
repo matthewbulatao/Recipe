@@ -4,8 +4,6 @@
 <title>Recipe</title>
 </head>
 <body style=text-align:center;>
-
-
 <style>
 
 
@@ -90,3 +88,4 @@ pressure</mark>)  </li>
 <p><big><b>THANK YOU	!!!</big></b></p>
 </body>
 </html>
+</style>
