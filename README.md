@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<body style=text-align:center;>
+
 
 <style>
 
