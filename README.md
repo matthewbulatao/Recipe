@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>recipe</title>
+<title>R</title>
 </head>
 <body>
 
