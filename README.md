@@ -3,7 +3,7 @@
 <head>
 <title>R</title>
 </head>
-<body>
+<body style=text-align:center;>
 
 
 
@@ -23,8 +23,6 @@ mark {
 </style>
 </head>
 
-
-<body style=text-align:center;>
 <h1>Beef Caldereta Recipe</h1>
 
 <img src="Beef-Caldereta.jpg" alt="Beef-Caldereta" width="200" height="180">
