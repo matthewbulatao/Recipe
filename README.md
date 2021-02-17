@@ -3,16 +3,14 @@
 <head>
 <title>Recipe</title>
 </head>
+
 <body style=text-align:center;>
 
 
 <style>
 
-
-
-
 body {
-  background-image: url('Beef-Caldereta.jpg');
+  background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -24,11 +22,12 @@ mark {
 }
 </style>
 </head>
-<body>
+
 
 
 
 <h1 style=text-align:center;>Beef Caldereta Recipe</h1>
+
 <img src="Beef-Caldereta.jpg" alt="Beef-Caldereta" width="200" height="180">
 
 <h2 > Ingredients </h2>
@@ -65,6 +64,8 @@ mark {
     <li><mark>⅔ </mark>  		cup green olives</li>
     <li>	salt and pepper to taste</li>
 </ul>
+
+
 <h3>Instructions</h3>
 <ol style=type"1">
 	<li>Heat the cooking oil in the cooking pot or pressure cooker.</li>
