@@ -10,7 +10,7 @@
 <style>
 
 body {
-  background-image: url('img_girl.jpg');
+  background-image: url('Beef-Caldereta.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -25,8 +25,8 @@ mark {
 
 
 
-
-<h1 style=text-align:center;>Beef Caldereta Recipe</h1>
+<body style=text-align:center;>
+<h1>Beef Caldereta Recipe</h1>
 
 <img src="Beef-Caldereta.jpg" alt="Beef-Caldereta" width="200" height="180">
 
