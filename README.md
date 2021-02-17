@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Recipe</title>
+<title>recipe</title>
 </head>
+<body>
 
 <body style=text-align:center;>
-</body>
-<body>
+
 <style>
 
 body {
@@ -24,7 +24,6 @@ mark {
 </head>
 
 
-
 <body style=text-align:center;>
 <h1>Beef Caldereta Recipe</h1>
 
@@ -33,9 +32,8 @@ mark {
 <h2 > Ingredients </h2>
 <ul>
 	
-
-	<li><mark>2</mark> 	lbs beef cubed</li> 
-	<li><mark>3</mark> 	pieces garlic cloves crushed and chopped</li>
+    <li><mark>2</mark> 	lbs beef cubed</li> 
+    <li><mark>3</mark> 	pieces garlic cloves crushed and chopped</li>
     <li><mark>2</mark> 	piece onion finely chopped</li>
     <li><mark>2</mark> 	cups beef broth</li>
     <li><mark>1</mark> 	piece red bell pepper sliced</li>
@@ -88,6 +86,9 @@ pressure</mark>)  </li>
     <li>Serve Hot. Enjoy!</li>
     </ol>	
 
-<p><big><b>THANK YOU	!!!</big></b></p>
+<p><big><b>THANK YOU	!!!</p></big></b>
+
+
+
 </body>
 </html>
